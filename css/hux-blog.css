@@ -517,6 +517,10 @@ pre code {
 .intro-header .page-heading {
   padding: 85px 0 55px;
   color: white;
+  text-shadow: 1px 1px 1px black,
+  1px -1px 1px black,
+  -1px 1px 1px black,
+  -1Px -1px 1px black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -617,10 +621,6 @@ pre code {
   line-height: 1.3;
   margin-top: 30px;
   margin-bottom: 8px;
-  text-shadow: 1px 1px 1px black,
-  1px -1px 1px black,
-  -1px 1px 1px black,
-  -1Px -1px 1px black;
 }
 .post-preview > a > .post-subtitle {
   font-size: 15px;
