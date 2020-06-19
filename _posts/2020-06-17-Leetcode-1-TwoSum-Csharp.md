@@ -30,7 +30,7 @@ return [0, 1].
 
 # My Solution
 
-**Code**:
+## Code
 ```
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
@@ -49,9 +49,9 @@ public class Solution {
 }
 ```
 
-**Explain**
+## Explain
 
-*Time Complexity: O(n)* - n is the length of nums.
+**Time Complexity: O(n)** - n is the length of nums.
 
 Key Point: Dictionary
 
