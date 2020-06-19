@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode 1. Two Sum Csharp(C#) Solution
-subtitle:   Introduction about tutorial series - Leetcode With Csharp
+subtitle:   Leetcode With Csharp serious tutorial
 date:       2020-06-17
 author:     Yiling
 header-img: img/csharp/csharpintro.png
