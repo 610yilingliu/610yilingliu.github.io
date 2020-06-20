@@ -22,13 +22,13 @@ C#刷遍Leetcode面试题系列连载（1） - 入门与工具简介(Simplified 
 
 These source introduces how to set up C# environment for Leetcode problems and how to test it.
 
-https://www.cnblogs.com/enjoy233/p/csharp_leetcode_series_1.html
+[https://www.cnblogs.com/enjoy233/p/csharp_leetcode_series_1.html](https://www.cnblogs.com/enjoy233/p/csharp_leetcode_series_1.html)
 
 Microsoft C# offical guide
 
 You can run few C# lines there without building the whole project ans watch the output. You can also find all libraries and their input/output.
 
-https://docs.microsoft.com/en-us/dotnet/csharp/
+[https://docs.microsoft.com/en-us/dotnet/csharp/](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 # Links
 
@@ -36,17 +36,17 @@ https://docs.microsoft.com/en-us/dotnet/csharp/
 
 Leetcode 1.Two Sum
 
-https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/
+[https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/](https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/)
 
 
 ## Medium
 
 Leetcode 2. Add Two Numbers
 
-https://610yilingliu.github.io/2020/06/17/Leetcode-2-AddTwoNumbers-Csharp/
+[https://610yilingliu.github.io/2020/06/17/Leetcode-2-AddTwoNumbers-Csharp/](https://610yilingliu.github.io/2020/06/17/Leetcode-2-AddTwoNumbers-Csharp/)
 
 Leetcode 3. Longest Substring Without Repeating Characters
 
-https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/
+[https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/](https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/)
 
 ## Hard
