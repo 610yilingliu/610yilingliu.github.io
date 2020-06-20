@@ -74,4 +74,18 @@ Maintain a Queue ```anslist``` with unduplicated numbers, and a hashset ```notdu
 
 If the next char could be found in ```notdp``` , record the current length of queue and pop the left-most element from the queue until the char that is the same with the next char canceled from ```notdp```
 
-![Fig 3-1: initial status](\img\csharp\leetcode3-1.png)
+### Explain with Pictures
+
+![Fig 3-1: initial status](img\csharp\leetcode3-1.png)
+
+Then push elements to ```anslist``` continuously until the next element is duplicated from the existed elements inside ```anslist```
+
+![Fig 3-2](img\csharp\leetcode3-2.png)
+
+You find the next char 'a' is duplicated from 'a' in ```anslist```
+
+Record the current length of ```anslist```, compare it with the recorded ```maxlen```, if the current length is larger than ```maxlen```, replace ```maxlen``` by current length, else do nothing with ```maxlen```
+
+Then pop the first element from ```anslist``` until 'a' is not in anslist, delete the poped elements from ```notdp``` at the same time, push the next element to ```anslist``` and continue until reaches to the end of string
+
+![Fig 3-3](img\csharp\leetcode3-3.png)
