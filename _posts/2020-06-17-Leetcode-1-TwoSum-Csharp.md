@@ -53,7 +53,7 @@ public class Solution {
 
 **Time Complexity: O(n)** - n is the length of nums.
 
-Key Point: Dictionary
+**Key Point: Dictionary**
 
 
 Get the diff between ```target``` and number we 'walked' and put them inside a ditionary like: 
