@@ -76,11 +76,11 @@ If the next char could be found in ```notdp``` , record the current length of qu
 
 ### Explain with Pictures
 
-![Fig 3-1: initial status](img\csharp\leetcode3-1.png)
+![Fig 3-1: initial status](\img\csharp\leetcode3-1.png)
 
 Then push elements to ```anslist``` continuously until the next element is duplicated from the existed elements inside ```anslist```
 
-![Fig 3-2](img\csharp\leetcode3-2.png)
+![Fig 3-2](\img\csharp\leetcode3-2.png)
 
 You find the next char 'a' is duplicated from 'a' in ```anslist```
 
@@ -88,4 +88,4 @@ Record the current length of ```anslist```, compare it with the recorded ```maxl
 
 Then pop the first element from ```anslist``` until 'a' is not in anslist, delete the poped elements from ```notdp``` at the same time, push the next element to ```anslist``` and continue until reaches to the end of string
 
-![Fig 3-3](img\csharp\leetcode3-3.png)
+![Fig 3-3](\img\csharp\leetcode3-3.png)
