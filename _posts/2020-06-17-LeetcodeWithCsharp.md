@@ -43,5 +43,10 @@ https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/
 
 Leetcode 2. Add Two Numbers
 
+https://610yilingliu.github.io/2020/06/17/Leetcode-2-AddTwoNumbers-Csharp/
+
+Leetcode 3. Longest Substring Without Repeating Characters
+
+https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/
 
 ## Hard
