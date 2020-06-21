@@ -34,10 +34,13 @@ You can run few C# lines there without building the whole project ans watch the 
 
 ## Easy
 
-Leetcode 1.Two Sum
+Leetcode 1. Two Sum
 
 [https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/](https://610yilingliu.github.io/2020/06/17/Leetcode-1-TwoSum-Csharp/)
 
+Leetcode 7. Reverse Integer
+
+[https://610yilingliu.github.io/2020/06/19/Leetcode-7-ReverseInteger-Csharp/](https://610yilingliu.github.io/2020/06/19/Leetcode-7-ReverseInteger-Csharp/)
 
 ## Medium
 
