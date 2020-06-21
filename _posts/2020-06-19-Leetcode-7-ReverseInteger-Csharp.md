@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode 7. Reverse Integer
-subtitle:   Leetcode With Csharp serious tutorial
+subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-19
 author:     Yiling
 header-img: img/csharp/csharpintro.png

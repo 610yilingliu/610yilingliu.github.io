@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode 2. Add Two Numbers Csharp(C#) Solution
-subtitle:   Leetcode With Csharp serious tutorial
+subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-17
 author:     Yiling
 header-img: img/csharp/csharpintro.png
