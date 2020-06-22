@@ -115,13 +115,14 @@ So the code will looks like this(This code cannot run in the following code in a
 function modifyc(listnode h, target_val_to_edit){
     head = h;
     pointer = h;
-    while(pointer.val == target_val_to_edit and pointer.next != null){
+    while(pointer.val != target_val_to_edit and pointer.next != null){
         pointer = pointer.next
     }
-    if(pointer.val == target_val_to_edit){
+    if pointer.val == target_val_to_edit){
         pointer.val = 'cc'
         return head
     }
+    // if there is no node mathes, do not change anything
     return head
 }
 
