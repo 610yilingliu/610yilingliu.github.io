@@ -47,11 +47,11 @@ For more detail about installation, simply type "install python" in Google and c
 
 Now you finish installation and open python in command line joyfully, what you see is an ugly interface like that: 
 
-![Python Console](img\python\pywinconsole.png)
+![Python Console](\img\python\pywinconsole.png)
 
 Oh god! It is not the same as I imagine! Your workspace looks this advertise!
 
-![Python Advertise](img\python\py_code.jpeg)
+![Python Advertise](\img\python\py_code.jpeg)
 
 Well, that is the reason why you need an IDE(Integrated Development Environment), for beginners, it makes your code nicer to read. For senior developers, it is easier to manage your projects through it.
 
