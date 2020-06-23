@@ -42,6 +42,10 @@ Leetcode 7. Reverse Integer
 
 [https://610yilingliu.github.io/2020/06/19/Leetcode-7-ReverseInteger-Csharp/](https://610yilingliu.github.io/2020/06/19/Leetcode-7-ReverseInteger-Csharp/)
 
+Leetcode 520. Detect Capital
+
+[https://610yilingliu.github.io/2020/06/23/Leetcode-520-DetectCapitalCsharp/](https://610yilingliu.github.io/2020/06/23/Leetcode-520-DetectCapitalCsharp/)
+
 ## Medium
 
 Leetcode 2. Add Two Numbers
