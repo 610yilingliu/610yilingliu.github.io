@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Leetcode 7. Reverse Integer
+title:      Leetcode 7. Reverse Integer Csharp(C#) Solution
 subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-19
 author:     Yiling

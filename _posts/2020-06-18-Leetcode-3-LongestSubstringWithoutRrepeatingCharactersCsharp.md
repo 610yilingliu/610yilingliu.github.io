@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Leetcode 3. Longest Substring Without Repeating Characters
+title:      Leetcode 3. Longest Substring Without Repeating Characters Csharp(C#) Solution
 subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-18
 author:     Yiling
