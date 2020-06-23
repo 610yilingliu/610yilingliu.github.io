@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode With Csharp(C#) - Introduction
-subtitle:   Introduction about tutorial series - Leetcode With Csharp
+subtitle:   Introduction about Leetcode With Csharp series tutorial
 date:       2020-06-17
 author:     Yiling
 header-img: img/csharp/csharpintro.png
