@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      Time Complexity of Python3 Built-in Methods
-subtitle:   Data structure
+subtitle:   Document
 date:       2020-06-22
 author:     Yiling
-header-img: img\python\pylogo.png
+header-img: img/python/pylogo.png
 catalog: true
 tags:
     - DataStructure
