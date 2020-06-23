@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode 520. Detect Capital
-subtitle:   Leetcode With Csharp serious tutorial
+subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-23
 author:     Yiling
 header-img: img/csharp/csharpintro.png

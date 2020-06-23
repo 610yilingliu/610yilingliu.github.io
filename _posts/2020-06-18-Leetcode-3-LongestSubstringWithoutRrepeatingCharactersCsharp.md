@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode 3. Longest Substring Without Repeating Characters
-subtitle:   Leetcode With Csharp serious tutorial
+subtitle:   Leetcode With Csharp series tutorial
 date:       2020-06-18
 author:     Yiling
 header-img: img/csharp/csharpintro.png
