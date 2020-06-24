@@ -57,7 +57,7 @@ Well, that is the reason why you need an IDE(Integrated Development Environment)
 
 The IDE I am using is VSCode, it is a free, open source tool developed by Microsoft, you can get it from the link [HERE](https://code.visualstudio.com/)
 
-It is free and also suitable for other programming languages, but you need to configure models and plug-ins yourself.
+It is also suitable for other programming languages, but you need to configure language models and plug-ins yourself.
 
 [HERE](https://dzone.com/articles/vs-code-setup-for-python-development-and-testing) is a tutorial about how to setup python environment in VSCode
 
