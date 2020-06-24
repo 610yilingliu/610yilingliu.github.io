@@ -63,6 +63,6 @@ It is also suitable for other programming languages, but you need to configure l
 
 Many people use pycharm but I have no experience with this IDE, you can Google it if you have interest about it.
 
-[This Python Tutorial](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs) uses PyScripyer and I think this IDE is also great for beginners, you don't have to configure anything, just install python and this IDE, and start coding.
+[This Python Tutorial](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs) uses PyScripyer and I think this IDE is also great for beginners, you don't have to configure anything, just install python and this IDE, then start coding.
 
 In the next tutorial, I will introduce some projects, not the same as the examples on the internet but made by myself, to show what you kinds of daily problems you can solve via python.
