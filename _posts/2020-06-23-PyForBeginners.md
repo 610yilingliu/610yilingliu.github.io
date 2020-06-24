@@ -49,7 +49,7 @@ Now you finish installation and open python in command line joyfully, what you s
 
 ![Python Console](\img\python\pywinconsole.png)
 
-Oh god! It is not the same as I imagine! Your workspace looks this advertise!
+Oh god! It is not the same as I imagine! My workspace should looks like this advertise instead of the console!
 
 ![Python Advertise](\img\python\py_code.jpeg)
 
