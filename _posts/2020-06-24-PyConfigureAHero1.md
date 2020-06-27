@@ -12,6 +12,8 @@ tags:
     - ExampleProject
 ---
 
+Related links for this tutorial could be found **[HERE](https://610yilingliu.github.io/2020/06/23/PyForBeginners/)**
+
 Start from printing "Hellow World" is quite boring, it appears in almost every tutorial. Let's do an interesting mini-project together. If you are a hard-core game player, it might be helpful for you while you are playing games.
 
 # Question

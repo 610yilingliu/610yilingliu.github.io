@@ -11,6 +11,7 @@ tags:
     - Beginner
     - ExampleProject
 ---
+Related links for this tutorial could be found **[HERE](https://610yilingliu.github.io/2020/06/23/PyForBeginners/)**
 
 # Make Your Calculator Works Like a Program
 

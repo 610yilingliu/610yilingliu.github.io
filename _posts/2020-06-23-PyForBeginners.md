@@ -65,4 +65,8 @@ Many people use pycharm but I have no experience with this IDE, you can Google i
 
 [This Python Tutorial](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs) uses PyScripyer and I think this IDE is also great for beginners, you don't have to configure anything, just install python and this IDE, then start coding.
 
-In the next tutorial, I will introduce some projects, not the same as the examples on the internet but made by myself, to show what you kinds of daily problems you can solve via python.
+# Project for Beginners
+
+## Configure a Hero
+Part A: [https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/](https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/)
+Part B: [https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/](https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/)
