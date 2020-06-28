@@ -59,4 +59,7 @@ Leetcode 3. Longest Substring Without Repeating Characters
 Leetcode 356. Line Reflection
 [https://610yilingliu.github.io/2020/06/27/Leetcode-356-LineReflection-Csharp/](https://610yilingliu.github.io/2020/06/27/Leetcode-356-LineReflection-Csharp/)
 
+Leetcode 413. Arithmetic Slices
+[https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/](https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/)
+
 ## Hard
