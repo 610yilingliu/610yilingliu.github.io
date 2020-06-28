@@ -38,7 +38,7 @@ Assume we are dealing with an environment which could only store integers within
 # My Solution
 
 ## Code
-```
+```c#
 public class Solution {
     public int Reverse(int x) {
         if(x == 0 || x == int.MinValue) return 0;

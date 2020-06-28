@@ -24,7 +24,7 @@ You tried to rewrite the function 25 times in Part A but drove crazy when the th
 Well, that is why people use function in programs. In python, a function is represented as ```def function_name(variable1, variable2...)```
 
 **variables** are the things that waits you to input yourself. It could be empty, like this:
-```
+```python
 def printhelloworld():
     print('Hellow World')
 ```
@@ -32,21 +32,21 @@ def printhelloworld():
 If you execute `printhellowworld()` the function will print 'Hellow World' on the screen.
 
 The function with input variables looks like this:
-```
+```python
 def printhellowsb(name):
     print('Hellow ' + name)
 ```
 The function will print 'Hellow John' if you execute `printhellowsb('John')` and 'Hellow Allen' for `printhellowsb('Allen')`.
 
 There will be an error if executing `printhellowsb(John)`, because now John is an unknown variable, instead of a string. The thing you input should be a known variable. In case `printhellowsb(John)`, computer confused about 'Who is John' unless you tell it John = 'John'. The following command will run successfully:
-```
+```python
 John = 'John'
 printhellowsb(John)
 ```
 
 Ofcourse you can write a function which receives multiple variables:
 
-```
+```python
 def printhellowguys(name1, name2):
     print('Hellow' + name1 + ' and ' + name2)
 ```
@@ -55,7 +55,7 @@ def printhellowguys(name1, name2):
 Now back to our calculator.
 
 The code we got from the last tutorial is:
-```
+```python
 use_eq_a = (800 + 200) * (1 + 0.05 + 0.1)
 print('DMG if use a ' + str(use_eq_a))
 
@@ -86,19 +86,19 @@ And the code we written, We can conclude that:
 2. `0.05` in the blue box represents the origional Extra Damage Multiplier
 
 So your function could be
-```
+```python
 def HeroEquipChoose(ori_atk, ori_edm):
     logics...
-```
+```python
 `HeroEquipChoose`, `ori_atk`, `ori_edm` could be any name you want, it just works like a sign. You can also set your function as:
-```
+```python
 def doggy(a, b):
     logics...
 ```
 If it not confuse you and others who will read your code.
 
 Simply replace `800` and `0.05` by variable names you want, and that is the function:
-```
+```python
 def HeroEquipChoose(ori_atk, ori_edm):
     use_eq_a = (ori_atk + 200) * (1 + ori_edm + 0.1)
     print('DMG if use a ' + str(use_eq_a))
@@ -115,7 +115,7 @@ def HeroEquipChoose(ori_atk, ori_edm):
 ```
 
 You may get confused about how to use it. In VSCode, simply use
-```
+```python
 if __name__ == '__main__':
     functionname(input1, input2...)
 ```

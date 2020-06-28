@@ -16,7 +16,7 @@ I will continue update this code during study C#, now it may looks not elegant e
 
 Please tell me if anyone needs a Python3 version, I am good at Python.
 
-```
+```c#
 public class heapq{
     List<int> h = new List<int>();
     public int lastidx = -1;

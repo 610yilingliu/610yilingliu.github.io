@@ -46,7 +46,7 @@ Note: The input will be a non-empty word consisting of uppercase and lowercase l
 
 ## Code
 
-```
+```c#
 public class Solution {
     public bool DetectCapitalUse(string word) {
         if(word == null) return false;

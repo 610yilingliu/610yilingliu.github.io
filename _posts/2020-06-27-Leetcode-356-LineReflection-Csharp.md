@@ -66,7 +66,7 @@ Output: true
 # My Solution
 
 ## Code
-```
+```c#
 
 public class Solution {
     public bool IsReflected(int[][] points) {

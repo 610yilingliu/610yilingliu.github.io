@@ -41,7 +41,7 @@ Explanation: The answer is "wke", with the length of 3.
 # My Solution
 
 ## Code
-```
+```c#
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
         HashSet<object> notdup = new HashSet<object>();

@@ -96,7 +96,7 @@ Continue with the code above, now you already have 2 results and need to compare
 
 Add the if...elif...else after the code provided above
 
-```
+```python
 use_eq_a = (800 + 200) * (1 + 0.05 + 0.1)
 print('DMG if use a ' + str(use_eq_a))
 
@@ -114,7 +114,7 @@ else:
 elif means else if(infact, many other languages use else if, but python use elif). The logit is exactly the same to the plain English. But, be careful with those spaces, I suggest you to use tab instead of pressing space multiple time for indent. Sentences on the same logic level need to have the same indent in python.
 
 If you do
-```
+```python
 if sth:
     execute thing 1
 else:

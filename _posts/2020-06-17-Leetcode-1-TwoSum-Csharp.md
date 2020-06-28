@@ -31,7 +31,7 @@ return [0, 1].
 # My Solution
 
 ## Code
-```
+```c#
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         int len = nums.Length;
@@ -68,7 +68,7 @@ dict = {
 If you can find any ```rest``` in the following elements inside ```nums```, directly return this rest and its value. You just need to find one pair of the answer according to the problem.
 
 You can also solve this problem through two for loops, like:
-```
+```c#
 for(int i = 0; i < nums.Length - 1; i ++){
     for(int j = i + 1; j < nums.Length; j ++){
         if(nums[i] + nums[j] == target){
