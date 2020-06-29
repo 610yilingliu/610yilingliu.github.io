@@ -62,4 +62,7 @@ Leetcode 356. Line Reflection
 Leetcode 413. Arithmetic Slices
 [https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/](https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/)
 
+Leetcode 540. Single Element in a Sorted Array
+[https://610yilingliu.github.io/2020/06/29/Leetcode-540-SingleElementinaSortedArrayCsharp/](https://610yilingliu.github.io/2020/06/29/Leetcode-540-SingleElementinaSortedArrayCsharp/)
+
 ## Hard
