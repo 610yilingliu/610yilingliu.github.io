@@ -45,6 +45,8 @@ Constraints:
 
 **Time Complexity: O(n)**
 
+Depend on the location of single number in the list, the smaller index the single number is, the shorter time to find it
+
 ### Code
 
 ```c#
@@ -62,6 +64,9 @@ public class Solution {
     }
 }
 ```
+
+### Explain
+
 If you don't know what bit manupulation is, come to [THIS PAGE](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/) to study about it, or Google by yourself.
 
 In bit manupulation, if a == b, then a ^ b = 0. So we can group the numbers in the list two by two
@@ -86,3 +91,10 @@ But what if the single number occurs at the end of the list?
 From the problem we know that the length of list is always an odd number, so the last pair must be a single number. It will cause error in `nums[i] ^ nums[i + 1]`(i + 1 is out of range), so simply return the last element if there is an error.
 
 `return -1` is not really useful in this problem, just meet the requirement of C#: every path should return something.
+
+## Solution 2. Binary Search
+
+**Time Complexity: O(logn)**
+
+### Code
+
