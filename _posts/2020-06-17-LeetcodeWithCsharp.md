@@ -57,12 +57,15 @@ Leetcode 3. Longest Substring Without Repeating Characters
 [https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/](https://610yilingliu.github.io/2020/06/18/Leetcode-3-LongestSubstringWithoutRrepeatingCharactersCsharp/)
 
 Leetcode 356. Line Reflection
+
 [https://610yilingliu.github.io/2020/06/27/Leetcode-356-LineReflection-Csharp/](https://610yilingliu.github.io/2020/06/27/Leetcode-356-LineReflection-Csharp/)
 
 Leetcode 413. Arithmetic Slices
+
 [https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/](https://610yilingliu.github.io/2020/06/28/Leetcode-413-ArithmeticSlices-Csharp/)
 
 Leetcode 540. Single Element in a Sorted Array
+
 [https://610yilingliu.github.io/2020/06/29/Leetcode-540-SingleElementinaSortedArrayCsharp/](https://610yilingliu.github.io/2020/06/29/Leetcode-540-SingleElementinaSortedArrayCsharp/)
 
 ## Hard

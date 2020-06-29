@@ -69,5 +69,7 @@ Many people use pycharm but I have no experience with this IDE, you can Google i
 
 ## Configure a Hero
 Part A: [https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/](https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/)
-Part B: [https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/](https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/)
+
+Part B:[https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/](https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/)
+
 Part C: [https://610yilingliu.github.io/2020/06/29/PyConfigureAHero3/](https://610yilingliu.github.io/2020/06/29/PyConfigureAHero3/)
