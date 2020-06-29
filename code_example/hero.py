@@ -26,7 +26,8 @@ def HeroEquipChoose(ori_atk, ori_edm):
         print('two equipments are the same')
 
 
-HeroEquipChoose(800, 0.05)
-HeroEquipChoose(1000, 0.2)
-HeroEquipChoose(1500, 0)
-HeroEquipChoose(400, 0.5)
+heroes = [[1000, 0.2], [1200, 0.1], [500, 0.5]]
+
+for index in range(len(heroes)):
+    HeroEquipChoose(heroes[index][0], heroes[index][1])
+
