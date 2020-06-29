@@ -98,3 +98,68 @@ From the problem we know that the length of list is always an odd number, so the
 
 ### Code
 
+```c#
+public class Solution {
+    public int SingleNonDuplicate(int[] nums) {
+        if(nums.Length == 1) return nums[0];
+        int l = 0;
+        int r = nums.Length - 1;
+        while(l <= r){
+            if(r == l) return nums[l];
+            int mid = l + (r - l)/2;
+            if(nums[mid] == nums[mid + 1]){
+                if(((mid -l) & 1) == 1){
+                    r = mid - 1;
+                }
+                else{
+                    l = mid;
+                }
+            }
+            else{
+                if(((mid -l) & 1) == 1){
+                    l = mid + 1;
+                }
+                else{
+                    r = mid;
+                }
+            }
+        }
+        return -1;
+    }
+}
+```
+### Explain
+
+Remenber that `((mid -l) & 1) == 1` is a bitwise method which equal to `(mid -l + 1) % 2 == 1` but runs faster.
+
+In case 
+```
+nums = [1,1,2,3,3,4,4,8,8]
+```
+Round 1:
+
+mid = 0 + (8 - 0) / 2 = 4
+
+nums[4] = 3
+
+nums[4] != nums[5] and there are 5 numbers in [0, 4] so the single number must in the left part(including nums[5] itself), update `r = mid`
+
+Round 2:
+
+mid = 0 + (4 - 0)/2 = 2
+
+nums[2] = 2
+
+nums[2] != nums[3] and there are 3 numbers in [0, 2] so the single number must in the left part(including nums[3] itself), update `r = mid`
+
+Round 3:
+
+mid = 0 + (2 - 0)/2 = 1
+
+nums[1] = 1;
+
+nums[1] != nums[2] and there are 2 numbers in [0, 1] so the single number must in the right part(not includ nums[1] itself), update `l = mid + 1`
+
+Round 4:
+
+r == l == 2, return nums[2], which is 2
