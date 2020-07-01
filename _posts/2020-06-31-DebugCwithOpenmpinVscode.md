@@ -10,6 +10,7 @@ tags:
     - C
     - VScode
     - HPC
+    - OpenMP
 ---
 
 # Problem We Have
@@ -79,3 +80,7 @@ Save it and return to test.c, press F5, it works!
 
 ![](\img\hpc\output.png)
 
+
+## Reference:
+
+[UWA High Performance Computing lecture slide](https://teaching.csse.uwa.edu.au/units/CITS3402/lectures/index.html)
