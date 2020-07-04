@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Leetcode 98. Range Addition II C & Csharp(C#) Solution
+title:      Leetcode 598. Range Addition II C & Csharp(C#) Solution
 subtitle:   Leetcode With Csharp series tutorial
 date:       2020-07-04
 author:     Yiling
