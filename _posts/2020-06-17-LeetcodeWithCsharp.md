@@ -46,6 +46,10 @@ Leetcode 520. Detect Capital
 
 [https://610yilingliu.github.io/2020/06/23/Leetcode-520-DetectCapitalCsharp/](https://610yilingliu.github.io/2020/06/23/Leetcode-520-DetectCapitalCsharp/)
 
+Leetcode 598. Range Addition II
+
+[https://610yilingliu.github.io/2020/07/04/Leetcode-598-RangeAdditionIIMultisol/](https://610yilingliu.github.io/2020/07/04/Leetcode-598-RangeAdditionIIMultisol/)
+
 ## Medium
 
 Leetcode 2. Add Two Numbers
