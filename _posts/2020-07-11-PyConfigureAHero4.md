@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      First Python Project - Configure A Hero - Part B
+title:      First Python Project - Configure A Hero - Part D
 subtitle:   Tutorial for newbies to programming
-date:       2020-06-25
+date:       2020-07-11
 author:     Yiling
 header-img: img/python/pylogo.png
 catalog: true
