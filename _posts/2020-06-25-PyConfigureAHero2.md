@@ -26,31 +26,31 @@ Well, that is why people use function in programs. In python, a function is repr
 **variables** are the things that waits you to input yourself. It could be empty, like this:
 ```python
 def printhelloworld():
-    print('Hellow World')
+    print('hello World')
 ```
 
-If you execute `printhellowworld()` the function will print 'Hellow World' on the screen.
+If you execute `printhelloworld()` the function will print 'hello World' on the screen.
 
 The function with input variables looks like this:
 ```python
-def printhellowsb(name):
-    print('Hellow ' + name)
+def printhellosb(name):
+    print('hello ' + name)
 ```
-The function will print 'Hellow John' if you execute `printhellowsb('John')` and 'Hellow Allen' for `printhellowsb('Allen')`.
+The function will print 'hello John' if you execute `printhellosb('John')` and 'hello Allen' for `printhellosb('Allen')`.
 
-There will be an error if executing `printhellowsb(John)`, because now John is an unknown variable, instead of a string. The thing you input should be a known variable. In case `printhellowsb(John)`, computer confused about 'Who is John' unless you tell it John = 'John'. The following command will run successfully:
+There will be an error if executing `printhellosb(John)`, because now John is an unknown variable, instead of a string. The thing you input should be a known variable. In case `printhellosb(John)`, computer confused about 'Who is John' unless you tell it John = 'John'. The following command will run successfully:
 ```python
 John = 'John'
-printhellowsb(John)
+printhellosb(John)
 ```
 
 Ofcourse you can write a function which receives multiple variables:
 
 ```python
-def printhellowguys(name1, name2):
-    print('Hellow' + name1 + ' and ' + name2)
+def printhelloguys(name1, name2):
+    print('hello' + name1 + ' and ' + name2)
 ```
-`printhellowguys('John', 'Allen')` shows 'Hellow John and Allen' on your screen.
+`printhelloguys('John', 'Allen')` shows 'hello John and Allen' on your screen.
 
 Now back to our calculator.
 
