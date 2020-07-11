@@ -45,6 +45,7 @@ The following content will be a bit of hard to understand.
 ```python
 f = open("E:/GitStorage/610yilingliu.github.io/code_example/data.txt", 'r')
 content = f.readlines()
+f.close()
 for line in content:
     # after this step, you got a string like '1000, 0.2'
     deleted_enter = line.strip('\n')
@@ -80,7 +81,7 @@ def HeroEquipChoose(ori_atk, ori_edm):
 # replace with your local path!!!
 f = open("E:/GitStorage/610yilingliu.github.io/code_example/data.txt", 'r')
 content = f.readlines()
-print(content)
+f.close()
 for line in content:
     # after this step, you got a string like '1000, 0.2'
     deleted_enter = line.strip('\n')
