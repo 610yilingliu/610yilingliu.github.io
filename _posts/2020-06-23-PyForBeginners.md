@@ -67,7 +67,7 @@ Many people use pycharm but I have no experience with this IDE, you can Google i
 
 # Projects for Beginners
 
-## Configure a Hero(Finished)
+## Configure a Hero(Done)
 Part A: [https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/](https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/)
 
 Part B:[https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/](https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/)
