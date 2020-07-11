@@ -2,7 +2,7 @@
 layout:     post
 title:      OpenMP Private Variable - Understand Why you got error while using it
 subtitle:   What I found while learning HPC
-date:       2020-06-31
+date:       2020-07-11
 author:     Yiling
 header-img: img/hpc/1.png
 catalog: true
@@ -98,4 +98,3 @@ Result:
 ![](\img\hpc\res1.png)
 
 A will be the value we defined **before** for loop if we print it outside.
-
