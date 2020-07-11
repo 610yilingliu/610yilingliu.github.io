@@ -65,11 +65,13 @@ Many people use pycharm but I have no experience with this IDE, you can Google i
 
 [This Python Tutorial](https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs) uses PyScripyer and I think this IDE is also great for beginners, you don't have to configure anything, just install python and this IDE, then start coding.
 
-# Project for Beginners
+# Projects for Beginners
 
-## Configure a Hero
+## Configure a Hero(Finished)
 Part A: [https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/](https://610yilingliu.github.io/2020/06/24/PyConfigureAHero1/)
 
 Part B:[https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/](https://610yilingliu.github.io/2020/06/25/PyConfigureAHero2/)
 
 Part C: [https://610yilingliu.github.io/2020/06/29/PyConfigureAHero3/](https://610yilingliu.github.io/2020/06/29/PyConfigureAHero3/)
+
+Part D:[https://610yilingliu.github.io/2020/07/11/PyConfigureAHero4/](https://610yilingliu.github.io/2020/07/11/PyConfigureAHero4/)

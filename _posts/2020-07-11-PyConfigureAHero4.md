@@ -29,7 +29,7 @@ You copy and paste those data to a text file, planning to import it to the list 
 
 You can use `f = open('data.txt', 'r')` to open this file as a file stream(It is not equal to a string, list or some thing, you can imagine it is a special, continuous byte sequence. You can find some explain on [Microsoft Documentation](https://docs.microsoft.com/en-us/windows/win32/fileio/file-streams)), if any error shown in your console, You can also use the absolute path like `E:/folder/code_example/data.txt` instead of the relative path 'data.txt'
 
-**REMENBER: Use '/' instead of '\\' because '\\' is a default escape character**
+**REMENBER: Use '/' instead of '\\' because '\\' is a default escape character in Python**
 
 Then put those content in a list-of-list through `content = f.readlines()`. If you print content, the result will be:
 ![](\img\python\hero10.png)
