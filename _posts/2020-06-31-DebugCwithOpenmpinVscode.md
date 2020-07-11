@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Debug C project with OpenMP in VScode
-subtitle:   What I found while learing HPC
+subtitle:   What I found while learning HPC
 date:       2020-06-31
 author:     Yiling
 header-img: img/hpc/1.png
