@@ -39,6 +39,7 @@ int main() {
 	omp_set_num_threads(4);
 	int sum = 0;
 #pragma omp parallel for reduction(+:sum)
+
 	for (int i = 0; i < 10; i++) {
 		sum += 1;
 		int num = omp_get_thread_num();
