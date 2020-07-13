@@ -29,6 +29,8 @@ operator| Private var initial value
  && | 1(True)
  \|\| | 0(False)
 
+Operators `max` and `min` are also accepted. `max` returns the largest representable number in the reduction list item type while `min` returns the least representable number in the reduction list item type.
+
 # Example
 
 ```c
