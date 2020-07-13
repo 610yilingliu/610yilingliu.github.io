@@ -16,7 +16,7 @@ tags:
 
 `reduction` is a key in OpenMP to apply multi-thread technique automatically during cumulative operation.
 
-It assign private variables to each thread with a initial value, accumulate them after exit threads. The accepted operations and the initial values are listed as follow:
+It assign private variables to each thread with a initial value, do the operation and accumulate them. The accepted operations and the initial values are listed as follow:
 
 operator| Private var initial value
 ---- | ----
@@ -41,13 +41,15 @@ int main() {
 #pragma omp parallel for reduction(+:sum)
 
 	for (int i = 0; i < 10; i++) {
-		sum += 1;
+		sum += i;
 		int num = omp_get_thread_num();
-		printf("Current num and Thread: %d, %d\n", sum, num);
+		printf("Current Sum: %d, Current i: %d, Current Thread: %d\n", sum, i, num);
 	}
 	printf("\nSum is : %d\n",sum);
 }
 ```
 
+How i in [0, 10) assigned to each thread:
+![](\img\hpc\reduction_2.png)
 Result:
 ![](\img\hpc\reduction_res1.png)
