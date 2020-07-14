@@ -19,3 +19,5 @@ Select `Project` on the menu, and click `project_name Properties` inside drop-do
 Click `C/C++`, select `Language`, change `Open MP Support` to `Yes`
 
 ![](\img\hpc\vssetting2.png)
+
+Done!
