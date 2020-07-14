@@ -169,4 +169,4 @@ for (int i = 0; i < 10; i++){
     A += i;
 }
 ```
-I just want to show you how to initialize `A` outside the loop
+I just want to show you how to initialize `A` outside the `for` loop
