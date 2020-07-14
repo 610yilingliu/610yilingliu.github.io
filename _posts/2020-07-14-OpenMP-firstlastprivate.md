@@ -85,8 +85,6 @@ we can use `firstprivate` to replace `private`, so your code become:
 ```c
 int main()
 {
-int main()
-{
 	int A = 0;
 	omp_set_num_threads(12);
 #pragma omp parallel for firstprivate(A)
