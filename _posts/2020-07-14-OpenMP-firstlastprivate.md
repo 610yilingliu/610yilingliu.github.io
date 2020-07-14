@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OpenMP - First Private and Last Private
+title:      OpenMP - firstprivate and lastprivate
 subtitle:   What I found while learning HPC
 date:       2020-07-13
 author:     Yiling
