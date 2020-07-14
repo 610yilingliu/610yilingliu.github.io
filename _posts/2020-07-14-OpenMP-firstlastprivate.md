@@ -157,3 +157,16 @@ Thread 8 got 8
 Thread 9 got 9
 At the end, A will be: 9
 ```
+
+# A Bit of Explain
+
+The `A += i` inside for loop does not mean to accumulate `A` from 0 to 9 and get 45 at the end. Do not confuse about that.
+
+It is equal to 
+```c
+for (int i = 0; i < 10; i++){
+    A = 0;
+    A += i;
+}
+```
+I just want to show you how to initialize `A` outside the loop
