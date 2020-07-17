@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      OpenMP - Scheduling(static, dynamic, guided, runtime, auto)
-subtitle:   What I found while learning HPC
+subtitle:   High Performance Computing
 date:       2020-07-15
 author:     Yiling
 header-img: img/hpc/1.png

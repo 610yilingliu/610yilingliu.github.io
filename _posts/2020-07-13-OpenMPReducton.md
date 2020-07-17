@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Reduction in OpenMP
-subtitle:   What I found while learning HPC
+subtitle:   High Performance Computing
 date:       2020-07-13
 author:     Yiling
 header-img: img/hpc/1.png

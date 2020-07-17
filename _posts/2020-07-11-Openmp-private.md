@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      OpenMP Private Variable - Understand Why you got error while using it
-subtitle:   What I found while learning HPC
+subtitle:   High Performance Computing
 date:       2020-07-11
 author:     Yiling
 header-img: img/hpc/1.png

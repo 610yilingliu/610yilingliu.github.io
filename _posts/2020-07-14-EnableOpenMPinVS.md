@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Enable OpenMP in Visual Studio
-subtitle:   What I found while learning HPC
+subtitle:   High Performance Computing
 date:       2020-07-14
 author:     Yiling
 header-img: img/hpc/1.png
