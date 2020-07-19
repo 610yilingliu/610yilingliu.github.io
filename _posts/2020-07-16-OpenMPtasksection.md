@@ -1,4 +1,4 @@
----
+<!-- ---
 layout:     post
 title:      OpenMP - Task and Sections
 subtitle:   High Performance Computing
@@ -10,7 +10,7 @@ tags:
     - C
     - HPC
     - OpenMP
----
+--- -->
 # Sections
 
 `omp sections` is quite similar with `omp for` but much flexible for small number of tasks without iteration relation.
