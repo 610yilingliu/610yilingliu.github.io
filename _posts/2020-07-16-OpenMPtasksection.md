@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout:     post
 title:      OpenMP - Task and Sections
 subtitle:   High Performance Computing
@@ -10,7 +10,7 @@ tags:
     - C
     - HPC
     - OpenMP
---- -->
+---
 # Sections
 
 `omp sections` is quite similar with `omp for` but much flexible for small number of tasks without iteration relation.
@@ -342,7 +342,9 @@ Current int 55 is on thread 1
 fib(10) = 55
 ```
 
-You can see that most of the iters in `sections` run on thread 0 while iters in `task` distribute evenly among threads. That means `tasks` is much "wiser" than `sections` in computing-resource allocation.
+You can see that most of the iters in `sections` run on thread 0 while iters in `task` distribute evenly among threads. 
+
+Task perform better in recursion than sections.
 
 
 # Reference
