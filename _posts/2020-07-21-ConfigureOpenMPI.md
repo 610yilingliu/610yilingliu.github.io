@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Enable OMPI in Visual Studio
+title:      Enable MPI in Visual Studio
 subtitle:   High Performance Computing
 date:       2020-07-21
 author:     Yiling
