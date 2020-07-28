@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      4 different ways to solve Leetcode 268 Missing Number (Python)
+title:      Four different ways to solve Leetcode 268 Missing Number (Python)
 subtitle:   Leetcode Python Solution
 date:       2020-07-21
 author:     Yiling
