@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Leetcode 115. Distinct Subsequences Python Solution
+title:      Leetcode 115. Distinct Subsequences - Python Solution
 subtitle:   Leetcode Python Solution
 date:       2020-07-28
 author:     Yiling
@@ -10,6 +10,7 @@ tags:
     - Python
     - Leetcode
 ---
+
 
 This tutorial comes from my own [Medium blog](https://medium.com/@yilingliu1994/understand-dynamic-programming-through-leetcode-115-explanation-with-pictures-318ff6a5299c) which is no longer to be use.
 
