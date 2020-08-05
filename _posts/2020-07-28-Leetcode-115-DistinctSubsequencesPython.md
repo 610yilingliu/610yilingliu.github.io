@@ -12,7 +12,7 @@ tags:
 ---
 
 
-This tutorial comes from my own [Medium blog](https://medium.com/@yilingliu1994/understand-dynamic-programming-through-leetcode-115-explanation-with-pictures-318ff6a5299c) which is no longer to be use.
+**This tutorial comes from my own [Medium blog](https://medium.com/@yilingliu1994/understand-dynamic-programming-through-leetcode-115-explanation-with-pictures-318ff6a5299c) which is no longer to be use.**
 
 Problem could be found on Leetcode [Here](https://leetcode.com/problems/distinct-subsequences/)
 
