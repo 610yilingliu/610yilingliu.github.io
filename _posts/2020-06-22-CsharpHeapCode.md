@@ -11,7 +11,6 @@ tags:
     - C#
     - CodeStorage
 ---
-
 I will continue update this code during study C#, now it may looks not elegant enough.
 
 Please tell me if anyone needs a Python3 version, I am good at Python.
